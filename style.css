@@ -1,0 +1,124 @@
+ul li{list-style:disc;}
+ol li{list-style:decimal;}
+strong{font-weight:700;}
+em{font-style:italic;}
+div.message{border:3px solid #077A12;background:#068912 url(bg-message.gif)/*tpa=http://maavindhyavasini.com/images/cms/bg-message.gif*/ left top repeat;color:#fff;font-weight:700;padding:5px;margin-bottom:20px;}
+div.error,div.errors{border:3px solid #EA0505;background:red url(bg-error.gif)/*tpa=http://maavindhyavasini.com/images/cms/bg-error.gif*/ left top repeat;color:#fff;font-weight:700;padding:5px;}
+#login-form{width:350px;border:1px solid #aaa;margin:0 auto;padding:15px;}
+#login-form label,form.standard-form label{float:left;width:150px;display:block;text-align:right;margin-right:5px;margin-bottom:3px;}
+#login-form input,form.standard-form input,form.standard-form select,form.standard-form textarea,form.standard-form div.field{float:left;margin-bottom:3px;}
+#login-form br,form.standard-form br{clear:left;margin-bottom:3px;}
+form.standard-form label{width:40%;}
+form.standard-form div.field{width:300px;}
+form.standard-form div.field label{float:none;width:auto;display:inline;text-align:left;margin-left:5px;}
+.hidden{display:none;}
+.clear{clear:both;}
+.float-left{float:left;margin:3px 10px 5px 0;}
+.float-right{float:right;margin:3px 0 5px 10px;}
+img.icon-image{vertical-align:-4px;margin-right:3px;display:inline;}
+.note{font-size:93%;line-height:130%;}
+.date{font-style:italic;font-size:95%;margin-top:-3px;}
+.credit{font-style:italic;text-align:right;margin-top:-3px;}
+.links{font-style:italic;}
+.caption{font-style:italic;}
+form.post_redirect_form{display:inline;}
+button.post_redirect_submit{border:0;background:transparent;text-decoration:underline;}
+button.post_redirect_submit span{text-decoration:underline;}
+button.post_redirect_submit span:hover{text-decoration:underline;}
+.sitemap ul{list-style-type:disc;}
+div.jojo_slideshow{position:relative;width:300px;height:200px;background-repeat:no-repeat;overflow:hidden;}
+div.jojo_slideshow img,div.jojo_slideshow span{display:none;}
+div.jojo_slideshow img.current{display:block;}
+div.jojo_map img{border:0;}
+.youtube,.youtube embed{width:425px;height:350px;}
+.youtube embed{background-image:url(youtube-videoloading.gif)/*tpa=http://maavindhyavasini.com/images/youtube-videoloading.gif*/;background-repeat:no-repeat;background-position:center;}
+div.mag{border:1px solid #eee;}
+div.mag a{display:block;border:1px solid #fff;-moz-outline-style:none;}
+div.mag img{border:0;background:#000;}
+div.mag a.selected{-moz-opacity:0.5;border:1px solid #000;}
+div.mag a.main{display:block;}
+div.mag a:hover img{-moz-opacity:0.9;}
+#content div.mag img{border:0;background:#000;float:none;margin:0;}
+#content div.galleryimagebox{float:left;}
+#content div.jgallery div.jg-large{background:url(ajax-loader.gif)/*tpa=http://maavindhyavasini.com/images/ajax-loader.gif*/ center no-repeat;min-height:200px;}
+#content div.jgallery div.jg-thumbnail-wrap{overflow:auto;margin-bottom:10px;}
+#content div.jgallery div.jg-thumbnail-wrap ul{margin:0;}
+#content div.jgallery .jg-thumbnails{float:left;clear:both;}
+#content div.jgallery .jg-thumbnails li{float:left;margin:0;list-style:none;}
+#content div.jgallery .jg-thumbnails a{display:block;}
+#content div.jgallery .jg-thumbnails img{display:block;}
+#searchresults div.search-relevance{color:#999;font-size:91%;line-height:100%;float:right;margin-top:4px;}
+#searchresults div.search-relevance-display{float:right;height:9px;background:transparent url(relevance.png)/*tpa=http://maavindhyavasini.com/images/relevance.png*/ no-repeat right;margin:6px 1px 6px 8px;}
+#searchresults a.current-filter{font-weight:700;}
+.tag-cloud a{text-decoration:none;}
+#post-comment{display:none;}
+#post-comment-link{display:block;text-align:center;}
+#post-comment label{float:left;width:150px;display:block;text-align:right;margin-right:5px;margin-bottom:3px;}
+#post-comment input,#post-comment select,#post-comment textarea{float:left;margin-bottom:3px;}
+#post-comment br{clear:left;margin-bottom:3px;}
+#post-comment div.post-comment-field{float:left;margin-bottom:3px;width:300px;}
+#post-comment div.post-comment-field label{float:none;width:auto;display:inline;text-align:left;margin-left:5px;}
+#article a.next-article{display:block;margin-left:5px;float:right;font-size:0.9em;}
+#article a.prev-article{display:block;margin-right:5px;float:left;font-size:0.9em;}
+.article-date{text-align:right;font-size:0.9em;font-style:italic;margin:20px 0 30px;}
+.links{margin:10px 0;}
+.more{text-align:right;}
+#article .note{margin:10px 0;}
+img.index-thumb{float:left;margin:3px 10px 5px 0;}
+form.contact-form label{float:left;width:150px;display:block;text-align:right;margin-right:5px;margin-bottom:3px;}
+form.contact-form input,form.contact-form select,form.contact-form textarea{float:left;margin-bottom:3px;margin-right:5px;}
+form.contact-form br{clear:left;margin-bottom:3px;}
+form.contact-form div.form-field{float:left;margin-bottom:3px;width:300px;}
+form.contact-form div.form-field br{margin:15px 0;}
+form.contact-form div.form-field input{float:none;}
+form.contact-form div.form-field-description{float:left;margin-bottom:3px;width:300px;clear:both;margin-left:155px;font-size:0.8em;line-height:110%;}
+form.contact-formdiv.form-field label{float:none;width:auto;display:inline;text-align:left;margin-left:5px;}
+form.contact-form div.captcha{margin:7px 0;}
+form.contact-form input.button{cursor:pointer;}
+#sharethis{padding:8px 0;clear:both;}
+#sharethis .st_sharethis{margin-right:10px;}
+body *{outline:none;}
+a{outline:none;text-decoration:none;color:#8F0D00;}
+a:hover{text-decoration:underline;}
+body{margin:0;padding:0;font-family:Verdana;font-size:13px;color:#343434;background:#B61100 url(bg.jpg)/*tpa=http://maavindhyavasini.com/images/bg.jpg*/ top left repeat-x;}
+h1,h2,h3,h4,h5,h6,p,img,span,form,input,a,ul,li{margin:0;padding:0;}
+.Red{color:#870000;}
+.Clear{font-size:0;line-height:0;height:0;margin:0;padding:0;clear:both;}
+.FLeft{float:left;}
+.stButton{color:#FFF !important;}
+.FRight{float:right;}
+#OuterWrapper{width:100%;background:url(shadow.png)/*tpa=http://maavindhyavasini.com/images/shadow.png*/ top center no-repeat;}
+#Wrapper{width:1000px;padding:0;margin:0 auto;}
+#Header{width:1000px;margin:0;padding:0;}
+#Header .Logo{width:299px;height:48px;padding:30px 0 20px 19px;float:left;}
+#Header .Navigation{width:585px;float:right;padding-top:0;}
+#Header .Navigation ul{list-style-type:none;padding:15px 0 0 0;}
+#Header .Navigation ul li{list-style-type:none;display:block;float:left;margin:0 2px 0 0;}
+#Header .Navigation ul li a{color:#DADADA;font-size:10px;font-weight:700;text-transform:uppercase;padding:0 12px;font-family:Tahoma;text-align:center;height:20px;line-height:20px;display:block;float:left;}
+#Header .Navigation ul li a:hover,#Header .Navigation ul li a.Active{background:#FFF;color:#8F0000;text-decoration:none;}
+#Header .Slideshow{width:980px;clear:both;background:#FFF;padding:10px;position:relative;}
+#Container{width:1000px;margin:0;padding:20px 0 30px 0;background:#FFF url(graphic.png)/*tpa=http://maavindhyavasini.com/images/graphic.png*/ top left no-repeat;}
+#Container .LeftContainer{width:660px;padding:0 27px 0 25px;float:left;}
+#Container .LeftContainer .BreadCrumbs{width:auto;height:24px;line-height:24px;font-size:11px;background:url(dotted-bg.gif)/*tpa=http://maavindhyavasini.com/images/dotted-bg.gif*/ top left repeat-x;margin-bottom:10px;}
+#Container .LeftContainer h1{font-size:21px;font-family:Trebuchet MS;font-weight:400;color:#333;text-transform:uppercase;margin-bottom:10px;}
+#Container .LeftContainer h1 span{font-weight:700;color:#8F0D00;}
+#Container .LeftContainer p{line-height:22px;text-align:justify;padding-bottom:15px;}
+#Container .RightContainer{width:288px;float:left;}
+#Container .RightContainer .RecentArticles{width:278px;padding:0;margin-bottom:15px;}
+#Container .RightContainer .RecentArticles .Content{width:228px;padding:0 20px 0 30px;background:url(recent-articles-bg.jpg)/*tpa=http://maavindhyavasini.com/images/recent-articles-bg.jpg*/ top left repeat-y;}
+#Container .RightContainer .RecentArticles .Content h2{font-family:Trebuchet MS;font-size:18px;color:#000;font-weight:400;text-transform:uppercase;margin-bottom:10px;}
+#Container .RightContainer .RecentArticles .Content ul{list-style-type:none;}
+#Container .RightContainer .RecentArticles .Content ul li{margin:0;padding:0 0 20px;list-style-type:none;background:none;color:#535353;font-size:12px;}
+#Container .RightContainer .RecentArticles .Content ul li span{font-weight:700;display:block;margin-bottom:5px;}
+#Container .RightContainer .RecentArticles .Content ul li p{text-align:justify;line-height:18px;padding-bottom:5px;}
+#Container .RightContainer .SubPages{width:265px;margin:0 0 20px 10px;}
+#Container .RightContainer .SubPages .Content{width:225px;padding:5px 20px;background:#EEE;}
+#Container .RightContainer .SubPages .Content h2{font-family:Trebuchet MS;font-size:18px;color:#000;font-weight:400;text-transform:uppercase;margin-bottom:5px;}
+#Container .RightContainer .SubPages .Content ul{list-style-type:none;}
+#Container .RightContainer .SubPages .Content ul li{list-style-type:none;background:url(arrow.gif)/*tpa=http://maavindhyavasini.com/images/arrow.gif*/ 0 10px no-repeat;padding:0 0 0 12px;line-height:24px;}
+#Footer{width:970px;margin:20px 0;color:#D6D6D6;height:55px;padding:10px 15px 0;font-size:12px;line-height:22px;background:#8E0D00;}
+#Footer a{color:#D6D6D6;}
+#Footer a:hover{color:#FFF;}
+#Footer .FLeft{padding-top:10px;}
+#Footer .FRight{text-align:right;}
+.jg-thumbnails li{float:left;margin:5px;list-style:none;}

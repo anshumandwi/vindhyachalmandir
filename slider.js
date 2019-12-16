@@ -1,0 +1,2 @@
+
+featuredcontentslider.init({id:"slider",contentsource:["inline",""],toc:"markup",nextprev:["Previous","Next"],revealtype:"click",enablefade:[true,0.1],autorotate:[true,5000],onChange:function(previndex,curindex){}})

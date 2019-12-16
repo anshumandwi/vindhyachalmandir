@@ -1,0 +1,5 @@
+.sliderwrapper{position:relative;overflow:hidden;width:980px;height:340px;}
+.sliderwrapper .contentdiv{visibility:hidden;position:absolute;left:0;top:0;width:980px;height:100%;filter:progid:DXImageTransform.Microsoft.alpha(opacity=100);-moz-opacity:1;opacity:1;}
+.pagination{position:absolute;bottom:10px;left:22px;z-index:100;}
+.pagination a{width:35px;height:26px;text-decoration:none;background:url(pagination-bg.png)/*tpa=http://maavindhyavasini.com/images/pagination-bg.png*/ 0 0 no-repeat;text-align:center;line-height:26px;font-family:Arial;font-size:14px;font-weight:700;color:#FFF;display:block;float:left;margin-right:5px;}
+.pagination a:hover,.pagination a.selected{background:url(pagination-bg.png)/*tpa=http://maavindhyavasini.com/images/pagination-bg.png*/ 0 -26px no-repeat;color:#AB1000;text-decoration:none;}
